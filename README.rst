@@ -237,7 +237,7 @@ Pull media from target instance to current instance using rsync and options from
 media:push
 ++++++++++
 
-Pull media from current instance to target instance using rsync and options from "media_default" and "media".
+Push media from current instance to target instance using rsync and options from "media_default" and "media".
 
 
 Changelog
